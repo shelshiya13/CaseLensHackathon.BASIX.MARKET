@@ -1,0 +1,17 @@
+LOGISTICS EXPRESS CO. — GOODS CONSIGNMENT CHALLAN & RECEIPT
+
+Challan Number: DC-90218
+Contract Order: CTR-2026-889
+Dispatch Hub: Sample Supplies Central Logistics
+
+Consignment Details:
+Items: Industrial Assemblies & Fittings (150 packages)
+Vehicle Number: DL-01-AB-4920
+
+DELIVERY CONFIRMATION:
+Consignee Location: Fictional Traders Warehouse, Bay 4
+Delivered on 17 August 2026 at 11:45 AM
+Received in Good Order: Yes
+Receiver Signature: S. Kumar (Store Manager, Fictional Traders Pvt Ltd)
+
+Official Delivery Challan Date: 17 August 2026

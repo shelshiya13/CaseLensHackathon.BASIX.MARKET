@@ -1,0 +1,6 @@
+{
+  "name": "CaseLens",
+  "description": "Court and legal case management and evidence-intelligence platform with persistent case state, deterministic conflict detection, grounded evidence citations, and human-in-the-loop review.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

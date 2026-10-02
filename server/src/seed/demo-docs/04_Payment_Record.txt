@@ -1,0 +1,18 @@
+APEX COMMERCIAL BANK — TRANSACTION CONFIRMATION RECEIPT
+
+Transaction Reference: TXN-8849102-NEFT
+Date of Transfer: 21 August 2026
+Value Date: 21 August 2026
+
+Remitter Account: Fictional Traders Pvt Ltd (A/C: 11002938472)
+Beneficiary Name: Sample Supplies LLP (A/C: 9102837419)
+Bank Identifier: APEX0001923
+
+Payment Particulars:
+Narration: Partial discharge for supply consignment ref INV-2041
+Amount Transferred: ₹1,80,000
+Currency: INR
+Status: COMPLETED / SETTLED
+
+Recorded Payment Amount: ₹1,80,000
+Authorized System Stamp: Apex Digital Payment Gateway

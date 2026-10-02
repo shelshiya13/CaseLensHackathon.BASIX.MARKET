@@ -1,0 +1,66 @@
+@theme {
+  --color-primary: #2563EB;
+  --color-secondary: #7C3AED;
+  --color-accent: #06B6D4;
+  --color-success: #10B981;
+  --color-warning: #F59E0B;
+  --color-danger: #EF4444;
+  --color-navy: #14213D;
+  --color-navy-light: #1E2D4A;
+  --color-charcoal: #2B2D33;
+  --color-charcoal-muted: #5C5E66;
+  --color-ivory: #FAF7F0;
+  --color-paper: #FFFFFF;
+  --color-brass: #B08D57;
+  --color-brass-light: #DFCEB0;
+  --color-brass-dark: #8C6A35;
+  --color-legal-border: #E4DFD3;
+  --color-legal-border-subtle: #EDE9DF;
+  --color-conflict-red: #9B2C2C;
+  --color-conflict-bg: #FDF2F2;
+  --color-conflict-border: #F8B4B4;
+  --color-verified-green: #2F6B4F;
+  --color-verified-bg: #F0FDF4;
+  --color-verified-border: #BCF0DA;
+  --color-warning-amber: #B7791F;
+  --color-warning-bg: #FEFCE8;
+  --color-warning-border: #FCE96A;
+  --color-neutral-slate: #475569;
+  --color-neutral-bg: #F1F5F9;
+  --color-teal: #176B68;
+  --color-teal-bg: #EAF5F3;
+  --color-teal-border: #B7DCD7;
+  --font-serif: "Newsreader", Georgia, serif;
+  --font-sans: "DM Sans", "Segoe UI", sans-serif;
+  --font-mono: "IBM Plex Mono", Menlo, Monaco, Consolas, monospace;
+}
+
+:root {
+  color-scheme: light;
+  --color-primary: #7056A8;
+  --color-secondary: #9278C8;
+  --color-accent: #62AEB5;
+  --color-success: #477B62;
+  --color-warning: #A86D21;
+  --color-danger: #B75052;
+  --surface-base: #F7F4EE;
+  --surface-quiet: #F1EDE5;
+  --surface-glass: rgb(255 255 255 / 88%);
+  --surface-glass-strong: #FFFEFB;
+  --ink-primary: #172033;
+  --ink-muted: #596273;
+  --line-soft: #E5DFD5;
+  --shadow-glass: 0 18px 44px -30px rgb(62 49 38 / 25%), 0 2px 8px rgb(62 49 38 / 5%);
+  --color-navy: #263248;
+  --color-charcoal: #263248;
+  --color-ivory: #F7F4EE;
+  --color-paper: #FFFEFB;
+  --color-brass: #A8793C;
+  --color-legal-border: #E5DFD5;
+  --color-teal: #477B74;
+  --color-teal-bg: #EDF5F0;
+  --color-teal-border: #D0E2D6;
+  --font-serif: Georgia, "Times New Roman", serif;
+  --font-sans: Inter, "Segoe UI", sans-serif;
+  --font-mono: "IBM Plex Mono", Menlo, Monaco, Consolas, monospace;
+}

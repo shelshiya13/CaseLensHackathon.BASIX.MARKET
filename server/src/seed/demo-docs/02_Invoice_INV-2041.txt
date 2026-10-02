@@ -1,0 +1,22 @@
+SAMPLE SUPPLIES LLP — TAX INVOICE
+
+Invoice Number: INV-2041
+Invoice Date: 12 August 2026
+Contract Reference: CTR-2026-889
+
+Billed To:
+Fictional Traders Pvt Ltd
+42 Industrial Estate, Demo City
+
+ITEMIZED PARTICULARS:
+Item 1: Commercial Grade Raw Assemblies (Quantity: 100 units) — ₹1,80,000
+Item 2: Specialized Fasteners and Fittings (Quantity: 50 sets) — ₹30,000
+Item 3: Protective Packaging and Transit Fee — ₹30,000
+
+INVOICE SUMMARY:
+Subtotal: ₹2,40,000
+Tax Applicable: ₹0 (Exempt under Special Economic Zone terms)
+Invoice Total Amount: ₹2,40,000
+
+Payment Due Date: 20 August 2026
+Please remit to: Sample Supplies LLP, Current Account No. 9102837419

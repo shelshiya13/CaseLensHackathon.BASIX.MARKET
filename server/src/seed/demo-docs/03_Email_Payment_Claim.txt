@@ -1,0 +1,16 @@
+From: accounts@fictionaltraders.com
+To: billing@samplesupplies.com
+Date: 15 August 2026, 14:32 IST
+Subject: Re: Invoice INV-2041 Status and Remittance
+
+Dear Sample Supplies Billing Desk,
+
+We reference Invoice INV-2041 issued under Contract CTR-2026-889.
+
+Please be informed that payment was completed from our corporate banking portal this afternoon. Our finance controller has confirmed the remittance of the invoice value. We will forward the bank transaction acknowledgment once generated.
+
+Kindly verify your ledger records and confirm receipt of consignment clearance.
+
+Warm regards,
+Head of Procurement & Accounts
+Fictional Traders Pvt Ltd
